@@ -1,0 +1,11 @@
+---
+
+all:
+   hosts:
+      rocky_1:
+         ansible_host: 192.168.1.67
+      rocky_2:
+         ansible_host: 192.168.1.66
+      rocky_3:
+         ansible_host: 192.168.1.65
+
